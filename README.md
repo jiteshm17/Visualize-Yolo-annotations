@@ -1,5 +1,5 @@
 # Visualize-Yolo-annotations
-A simple tool that will help visualize bounding boxes in darknet/yolo format
+A simple tool that will help visualize bounding boxes in darknet/yolo format. The only package needed for this is work is OpenCV
 
 
 # Usage
