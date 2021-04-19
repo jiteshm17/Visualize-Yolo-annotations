@@ -1,7 +1,6 @@
 import os
 import cv2
 import argparse
-import json
 
 
 def main():
